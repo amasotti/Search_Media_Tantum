@@ -7,7 +7,7 @@ The results are print in a txt file in the form:
     "file_id-verbal_form-translation-morpho_parsing-medium_tantum"
 The last parameter (medium_tantum) is a bool (1 for medium tantum, 0 if not)
 
-After each file a report with the statistics of the forms found is printed
+The scripts also creates a report with the statistics of the forms found is printed
 together with the forms which were false positives or not in the Perseus Dictionary
 
 GNU License v.3.0 -  20.09.2018 - Antonio Masotti, University of Göttingen
@@ -42,11 +42,13 @@ M_ENDUNGEN = ["(μαί|μαι|μαῖ|μᾶι)",
               "(μέν\w{1,3}|μεν\w{1,3})"]
 
 print('Choose where to save the output file: ')
+os.system("pause")
 OUTPUT_DIRECTORY = tkFileDialog.askdirectory()
 os.chdir(OUTPUT_DIRECTORY)
+
 NAME_OUTPUT = input("How do you want to name the output file: ")
 OUTPUT_FILE = str(NAME_OUTPUT)+".txt"
-
+OUTPUT_STATISTICS = str(NAME_OUTPUT)+"_Stat.txt"
 with open(OUTPUT_FILE, "a", encoding="UTF-8") as table:
     table.truncate(0)
     table.write("id_testo-forma-verbo-traduzione-morpho_parsing-medium_tantum\n")
@@ -55,6 +57,7 @@ with open(OUTPUT_FILE, "a", encoding="UTF-8") as table:
         VERBAL_FORMS = []
 
         print('Scegli la directory dei testi: ')
+        os.system("pause")
         TEXT_DIRECTORY = tkFileDialog.askdirectory()
         os.chdir(TEXT_DIRECTORY)
         FILE_LIST = [os.path.abspath(x) for x in os.listdir(TEXT_DIRECTORY)]
@@ -158,16 +161,19 @@ with open(OUTPUT_FILE, "a", encoding="UTF-8") as table:
                                 "-"+str(morpho_parsing)+
                                 "-"+str(mtantum)+
                                 "\n")
-            table.write("\n-------------------------------\n---NOT-FOUND or NOT-VERB---")
-            voci_non_trovate = ",".join(e for e in lista_non_trovati)
-            table.write("\n"+str(voci_non_trovate)+"\n")
-            table.write("\n----STATISTICS----\n")
-            table.write("Total verbal forms found: "+str(len(transformed))+
+            os.chdir(OUTPUT_DIRECTORY)
+            with open(OUTPUT_STATISTICS, "a", encoding="UTF-8") as stat:
+                stat.write("----STATISTICS OF "+str(id_text)+"----\n")
+                stat.write("-------------------------------\n---NOT-FOUND or NOT-VERB---")
+                voci_non_trovate = ",".join(e for e in lista_non_trovati)
+                stat.write("\n"+str(voci_non_trovate)+"\n")
+                stat.write("--------------------------------------------------------\n")
+                stat.write("Total verbal forms found: "+str(len(transformed))+
                         "\n"+"Media_tantum: "+str(len(lista_tantum))+"\n"+
                         "Not-Media_tantum:"+str(len(lista_active))+"\n"+
                         "Forms not found on Perseus or not verbs: "
                         +str(len(lista_non_trovati))+
-                        "\n------------------------------------\n\n")
+                        "\n--------------------------------------------------------\n\n")
 # ask the user if the another directory should be scanned
         if aux.again():
             continue
