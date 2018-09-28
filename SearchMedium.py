@@ -44,8 +44,10 @@ M_ENDUNGEN = ["(μαί|μαι|μαῖ|μᾶι)",
 print('Choose where to save the output file: ')
 OUTPUT_DIRECTORY = tkFileDialog.askdirectory()
 os.chdir(OUTPUT_DIRECTORY)
+NAME_OUTPUT = input("How do you want to name the output file: ")
+OUTPUT_FILE = str(NAME_OUTPUT)+".txt"
 
-with open("ParsedTexts.txt", "a", encoding="UTF-8") as table:
+with open(OUTPUT_FILE, "a", encoding="UTF-8") as table:
     table.truncate(0)
     table.write("id_testo-forma-verbo-traduzione-morpho_parsing-medium_tantum\n")
 
