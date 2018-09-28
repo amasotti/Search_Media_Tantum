@@ -1,0 +1,397 @@
+id_testo-forma-verbo-traduzione-morpho_parsing-medium_tantum
+Il_11-πεύθετο-πεύθομαι-give notice, lay an information,-verb 3rd sg imperf ind mp homeric ionic poetic unaugmented-1
+Il_11-ἀτεμβόμενος-ἀτέμβω-maltreat,-part sg pres mp masc nom epic-0
+Il_11-τλήσομαι-τλάω-suffer, undergo-verb 1st sg fut ind mid-0
+Il_11-σίτου-σῖτος-grain-verb 2nd sg pres imperat mp attic contr-0
+Il_11-ἐπεί-ἔπειμι-sum-verb 2nd sg pres ind act unasp_preverb-0
+Il_11-ἐνίσπω-ἐνέπω-tell-verb 1st sg aor subj act-0
+Il_11-μίκτο-μίγνυμι-to mix, mix up, mingle, properly of liquids-verb 3rd sg aor ind pass epic unaugmented-0
+Il_11-διελέξατο-διαλέγω-pick out,-verb 3rd sg aor ind mid-0
+Il_11-ἔξω-ἔξεστι-it is allowed, is possible,-verb 1st sg pres subj act attic epic doric contr-0
+Il_11-πάθω-πάσχω-have-verb 1st sg aor subj act-0
+Il_11-ἐπεπωλεῖτο-ἐπιπωλέομαι-go about, go through-verb 3rd sg imperf ind mp attic epic contr-1
+Il_11-πεπάλακτο-παλάσσω-besprinkle, defile-verb 3rd sg plup ind mp homeric ionic unaugmented redupl-0
+Il_11-ἐγγυαλίξω-ἐγγυαλίζω-put into the palm of the hand, put into the hand-verb 2nd sg aor ind mid homeric ionic comp_only unaugmented-0
+Il_11-μνήσασθε-μιμνήσκω-remind, put in mind-verb 2nd pl aor imperat mid-0
+Il_11-ῥήξαντο-ῥήγνυμι-break asunder, rend, shatter-verb 3rd pl aor ind mid epic ionic unaugmented-0
+Il_11-δαμέντα-δαμάζω-overpower-part pl aor pass neut acc-0
+Il_11-κιχάνεται-κιχάνω-reach, hit-verb 3rd sg pres ind mp pres_redupl-0
+Il_11-λόχου-λόχος-an ambush-verb 2nd sg pres imperat mp attic epic ionic contr-0
+Il_11-ἀναφαίνεται-ἀναφαίνω-cause to give light, make to blaze up,-verb 3rd sg pres ind mp-0
+Il_11-ἀπονήσεται-ἀπονέομαι-go away, depart,-verb 3rd sg fut ind mp-1
+Il_11-ὄρμενα-ὄρνυμι-ṛṇóti-part sg aor mid fem voc doric aeolic-0
+Il_11-ἤχθετο-ἄχθομαι-to be loaded,-verb 3rd sg imperf ind mp attic epic ionic-1
+Il_11-δάμνατο-δάμνημι-forced, seduced,-verb 3rd sg imperf ind mp homeric ionic unaugmented-0
+Il_11-Ἠῶ-ἀάω-hurt, damage,-verb 2nd sg imperf ind mp attic epic ionic contr-0
+Il_11-εἶναι-εἰμί-sum-verb pres inf act-0
+Il_11-δῦναι-δύναμαι-to be able, strong enough-verb 2nd sg pres ind mp attic-1
+Il_11-ἀντομένη-ἄντομαι-meet,-part sg pres mid fem nom attic epic ionic-1
+Il_11-καθήατο-κάθημαι-to be seated, sit-verb 3rd pl plup ind mid epic-1
+Il_11-θέρωνται-θέρω-heat, make hot-verb 3rd pl pres subj mp-0
+Il_11-μνησάσκετο-μιμνήσκω-remind, put in mind-verb 3rd sg aor ind mid epic ionic iterative unaugmented-0
+Il_11-ἐκορέσσατο-κορέννυμι-satiate, fill-verb 3rd sg aor ind mid poetic-0
+Il_11-γένηαι-γίγνομαι-come into a new state of being-verb 2nd sg aor subj mid epic-1
+Il_11-καθαλλομένη-καθάλλομαι-leap down-part sg pres mid fem voc attic epic ionic-1
+Il_11-εὐχόμενος-εὔχομαι-pray-part sg pres mp masc nom-1
+Il_11-πεπαρμένον-πείρω-pierce, run through-part sg perf mp neut voc-0
+Il_11-δάπτει-δάπτω-—devour,-verb 2nd sg pres ind mp-0
+Il_11-δήμου-δῆμος-a country-district, country, land-verb 2nd sg pres imperat mp contr-0
+Il_11-τειρομένοιο-τείρω-oppress, distress, weaken-part sg pres mp masc gen epic-0
+Il_11-ἀνεχάζετο-ἀναχάζω-make to recoil, force back,-verb 3rd sg imperf ind mp-0
+Il_11-παλαιοῦ-παλαίω-wrestle-verb 2nd sg pres imperat mp attic epic doric contr-0
+Il_11-κλονέει-κλονέω-drive tumultuously-verb 3rd sg pres ind act epic ionic-0
+Il_11-ἐπαύρῃ-ἐπαυρέω-partake of, share,-verb 3rd sg pres subj act contr-0
+Il_11-δηΐοιο-δάιος-battle-verb 2nd sg pres opt mp attic epic contr-0
+Il_11-φάτο-φημί-Spir. Prooem., Eratosth.Prooem.-verb 3rd sg imperf ind mp epic-0
+Il_11-ἄγει-ἄγνυμι-break, shiver-verb 3rd sg aor subj pass epic contr short_subj-0
+Il_11-ἀλέγω-ἀλέγω-have a care, mind, heed-verb 1st sg pres subj act-0
+Il_11-κοιμήσατο-κοιμάω-lull, put to sleep-verb 3rd sg aor ind mid attic ionic unaugmented-0
+Il_11-καθεζόμενος-ἕζομαι-seat oneself, sit-part sg pres mp masc nom epic-1
+Il_11-εἴσω-εἴδομαι-are visible, appear-verb 1st sg aor subj act-1
+Il_11-οἴω-οἴομαι-forebode, presage,-verb 1st sg pres ind act doric-1
+Il_11-ὤσαισθε-ὠθέω-thrust, push,-verb 2nd pl aor opt mid epic ionic-0
+Il_11-πόνοιο-πόνος-work,-verb 2nd sg pres opt mp attic epic doric contr-0
+Il_11-ἐξανύω-ἐξανύω-accomplish, make effectual,-verb 1st sg pres subj act-0
+Il_11-ἀλεξέμεναι-ἀλέξω-raák[snull ]ati-verb pres inf act epic-0
+Il_11-κεῖσθαι-κέω-[definition unavailable]-verb pres inf mp attic epic contr-0
+Il_11-λιλαιόμενα-λιλαίομαι-long-part sg pres mid fem voc doric aeolic pres_redupl-1
+Il_11-ἐκπεφυυῖαι-ἐκφύω-generate-part sg perf act fem dat attic doric aeolic syncope-0
+Il_11-πέλεται-πέλω-come into existence, become, be-verb 3rd sg pres ind mp-0
+Il_11-κατακτεῖναι-κατακτείνω-kill, slay-verb aor inf act-0
+Il_11-δαμάσσεται-δαμάζω-overpower-verb 3rd sg fut ind mid epic-0
+Il_11-κακοῦ-κακός-bad-verb 2nd sg imperf ind mp homeric ionic contr unaugmented-0
+Il_11-βεβλημένοι-βάλλω-throw-part pl perf mp masc voc epic-0
+Il_11-ἀάσατο-ἀάω-hurt, damage,-verb 3rd sg aor ind mid epic doric aeolic unaugmented-0
+Il_11-καταείσατο-κάτειμι-ibo):—go, come down-verb 3rd sg aor ind mid epic poetic syll_augment raw_preverb-0
+Il_11-ἑταίρου-ἑταῖρος-comrade, companion,-verb 2nd sg imperf ind mp attic poetic contr unaugmented-0
+Il_11-ὁπλίσσατο-ὁπλίζω-make-verb 3rd sg aor ind mid epic unaugmented-0
+Il_11-ἔρειο-ἔρομαι-ask, inquire,-verb 2nd sg imperf ind mid epic doric poetic unaugmented-1
+Il_11-λιπόμην-λείπω-leave, quit-verb 1st sg aor ind mid homeric ionic unaugmented-0
+Il_11-τρεῖ-τρέω-flee from fear, flee away-verb 2nd sg pres imperat act attic epic contr-0
+Il_11-φθεγξάμενος-φθέγγομαι-utter a sound-part sg aor mid masc nom-1
+Il_11-μένει-μένος-might, force-verb 3rd sg pres ind act-0
+Il_11-ἕποντο-ἕπομαι-follow-verb 3rd pl imperf ind mp homeric ionic syll_augment unaugmented-1
+Il_11-δεδεγμένος-δέχομαι-take, accept, receive,-part sg perf mp masc nom-1
+Il_11-βιάζεται-βιάζω-constrain-verb 3rd sg pres ind mp-0
+Il_11-πεδίοιο-πέδιον-[definition unavailable]-verb 2nd sg pres opt mp epic doric ionic-0
+Il_11-συναγρόμενοι-συναγείρω-gather together, assemble-part pl aor mid masc nom epic doric aeolic-0
+Il_11-βόλεται-βούλομαι-will, wish, be willing-verb 3rd sg pres ind mid epic-1
+Il_11-ἀρίστω-ἄριστον-morning meal, breakfast,-verb 2nd sg imperf ind mp homeric ionic contr unaugmented-0
+Il_11-ἵετο-ἵημι-Ja-c-io-verb 3rd sg imperf ind mp-0
+Il_11-δαμέντες-δαμάζω-overpower-part pl aor pass masc nom-0
+Il_11-χαλκοῦ-χάλκεος-of copper-verb 3rd sg imperf ind act homeric ionic contr unaugmented-0
+Il_11-διαρραῖσαι-διαρραίω-dash in pieces, destroy,-verb 3rd sg aor opt act-0
+Il_11-κατέπηκτο-καταπήγνυμι-stick fast-verb 3rd sg plup ind mp epic-0
+Il_11-ἐξοπίσω-ἐξοπίσω-backwards, back again,-verb 2nd sg aor ind mid homeric ionic unaugmented-0
+Il_11-καθέζετο-ἕζομαι-seat oneself, sit-verb 3rd sg imperf ind mp epic unaugmented-1
+Il_11-ἆσαι-ἄση-surfeit, loathing, nausea,-verb aor inf act epic doric aeolic-0
+Il_11-δέξαι-δέχομαι-take, accept, receive,-verb 2nd sg aor imperat mid-1
+Il_11-ἔσσεται-εἰμί-sum-verb 3rd sg fut ind mid epic-0
+Il_11-ᾐτιόωντο-αἰτιάομαι-accuse, censure-verb 3rd pl imperf ind mp epic-1
+Il_11-ζώννυσθαι-ζώννυμι-gird-verb pres inf mp-0
+Il_11-ὕλῃ-Ὕλη-Hyle-verb 3rd sg pres subj act epic ionic contr-0
+Il_11-ὀρινομένους-ὀρίνω-stir, raise,-part pl pres mp masc acc-0
+Il_11-τίετο-τίω-Erster Bericht-verb 3rd sg imperf ind mp attic epic unaugmented-0
+Il_11-ἐπειγόμενοι-ἐπείγω-press by weight,-part pl pres mp masc nom-0
+Il_11-κάπρω-κάπρος-boar-verb 1st sg pres subj act attic epic ionic contr-0
+Il_11-ὁρμῇ-ὁρμάω-set in motion, urge on, cheer on,-verb 3rd sg pres subj act epic ionic contr-0
+Il_11-ἐφίστατο-ἐφίστημι-set, place upon-verb 3rd sg imperf ind mp causal pres_redupl-0
+Il_11-γένοντο-γίγνομαι-come into a new state of being-verb 3rd pl aor ind mid homeric ionic unaugmented-1
+Il_11-ἔπλετο-πέλω-come into existence, become, be-verb 3rd sg imperf ind mp epic syncope-0
+Il_11-μάρναντο-μάρναμαι-fight, do battle-verb 3rd pl imperf ind mp homeric ionic unaugmented-1
+Il_11-ἀμφεστρατόωντο-ἀμφιστρατάομαι-beleaguer, besiege,-verb 3rd pl imperf ind mp epic elide_preverb-1
+Il_11-τιτυσκόμενος-τιτύσκομαι-make, make ready, prepare-part sg pres mp masc nom pres_redupl-1
+Il_11-ἆλτο-ἅλλομαι-sal--verb 3rd sg aor ind mp epic-1
+Il_11-ἑδριάασθαι-ἑδριάω-seat-verb pres inf mp epic-0
+Il_11-θωρήσσοντο-θωρήσσω-arm with a-verb 3rd pl imperf ind mp homeric ionic unaugmented-0
+Il_11-χάζοντο-χάζομαι-give way, fall back, retire-verb 3rd pl imperf ind mp homeric ionic unaugmented-1
+Il_11-ἀπαινύμενον-ἀπαίνυμαι-to take away, withdraw-part sg pres mid neut nom epic-1
+Il_11-ἀφίκηται-ἀφικνέομαι-arrive at, come to, reach:-verb 3rd sg aor subj mp-1
+Il_11-τρωπάσκετο-τρωπάω-turn, change,-verb 3rd sg imperf ind mp epic ionic iterative unaugmented-0
+Il_11-αἴνυτο-αἴνυμαι-take-verb 3rd sg imperf ind mid epic unaugmented-1
+Il_11-τόξου-τόξον-bow,-verb 2nd sg imperf ind mp homeric ionic contr unaugmented-0
+Il_11-ἔγχει-ἔγχος-spear, lance-verb 3rd sg pres ind act attic epic doric ionic contr-0
+Il_11-κυλίνδεται-κυλίνδω-roll-verb 3rd sg pres ind mp-0
+Il_11-ἥπτετο-ἅπτω-fasten-verb 3rd sg imperf ind mp attic epic ionic-0
+Il_11-ὁμοῦ-ὁμός-one and the same, common, joint,-verb 3rd sg imperf ind act homeric ionic contr unaugmented-0
+Il_11-πολέμοιο-πόλεμος-war,-verb 2nd sg pres opt mp attic epic doric contr-0
+Il_11-ὀλοφύρεται-ὀλοφύρομαι-lament, wail, moan,-verb 3rd sg pres ind mp-1
+Il_11-αἰτιόῳτο-αἰτιάομαι-accuse, censure-verb 3rd sg pres opt mp epic-1
+Il_11-ἀνέσσυτο-ἀνασεύομαι-sprang forth, spouted up,-verb 3rd sg imperf ind mid homeric ionic poetic unaugmented-1
+Il_11-αἰθομένοιο-αἴθω-light up, kindle-part sg pres mp neut gen epic-0
+Il_11-εἵλετο-αἱρέω-take with the hand, grasp, seize-verb 3rd sg aor ind mid syll_augment-0
+Il_11-ἑπέσθω-ἕπομαι-follow-verb 3rd sg pres imperat mp-1
+Il_11-ἐσφέρεται-εἰσφέρω-carry in,-verb 3rd sg pres ind mp short_eis-0
+Il_11-στήσεσθαι-ἵστημι-make to stand-verb fut inf mid causal-0
+Il_11-λελάσμεθα-λάζομαι-seize, grasp-verb 1st pl plup ind mp homeric ionic unaugmented redupl-1
+Il_11-νέεσθαι-νέομαι-go-verb pres inf mp epic ionic poetic-1
+Il_11-βουλῇ-βούλομαι-will, wish, be willing-verb 2nd sg pres subj mp-1
+Il_11-μελαίνῃ-μέλαινα-[definition unavailable]-verb 3rd sg pres subj act-0
+Il_11-χραισμῆσαι-χραισμέω-ward off-verb 2nd sg aor imperat mid epic-0
+Il_11-νεμέθοντο-νεμέθω-were feeding,-verb 3rd pl imperf ind mp epic unaugmented-0
+Il_11-τιμῶσαι-τιμάω-honour, revere, reverence-part pl pres act fem nom attic epic doric ionic contr-0
+Il_11-ἔμπνυτο-ἐμπνέω-blow-verb 3rd sg aor ind mid epic unaugmented-0
+Il_11-δεδιδάχθαι-διδάσκω-instruct-verb perf inf mp pres_redupl-0
+Il_11-ἑλέσθαι-αἱρέω-take with the hand, grasp, seize-verb aor inf mid-0
+Il_11-φάσθαι-φημί-Spir. Prooem., Eratosth.Prooem.-verb pres inf mid epic-0
+Il_11-ἐτετεύχατο-τεύχω-make ready, make-verb 3rd pl plup ind mp epic ionic-0
+Il_11-ἀφίκοντο-ἀφικνέομαι-arrive at, come to, reach:-verb 3rd pl aor ind mid-1
+Il_11-μάρνασθαι-μάρναμαι-fight, do battle-verb pres inf mp-1
+Il_11-ἀπόσχωνται-ἀπέχω-keep off or away from,-verb 3rd pl aor subj mp-0
+Il_11-ὀρίνει-ὀρίνω-stir, raise,-verb 3rd sg pres ind act-0
+Il_11-γίγνεται-γίγνομαι-come into a new state of being-verb 3rd sg pres ind mp pres_redupl-1
+Il_11-ὁμίλει-ὁμιλέω-to be in company with, consort with,-verb 3rd sg pres ind act attic epic doric ionic contr-0
+Il_11-κεχολωμένος-χολόω-anger, provoke,-part sg perf mp masc nom redupl-0
+Il_11-σεύωνται-σεύω-put in quick motion, drive-verb 3rd pl aor subj mid epic-0
+Il_11-πυθέσθαι-πύθω-cause to rot-verb pres inf pass-0
+Il_11-πίπτει-πίπτω-Exc. ex libris Herodiani-verb 2nd sg pres ind mp pres_redupl-0
+Il_11-Πύλου-Πύλος-Pylos-verb 2nd sg pres imperat mp contr-0
+Il_11-σπερχόμενος-σπέρχω-set in rapid motion-part sg pres mp masc nom-0
+Il_11-δύω-δύο-Acut.(Sp.-verb 1st sg pres subj act-0
+Il_11-μύθοιο-μῦθος-word, speech-verb 2nd sg pres opt mp attic epic doric contr-0
+Il_11-κεκλιμένος-κλίνω-śráyati-part sg perf mp masc nom redupl-0
+Il_11-ἐφέβοντο-φέβομαι-to be put to flight, flee in terror,-verb 3rd pl imperf ind mp-1
+Il_11-λισσομένους-λίσσομαι-beg, pray-part pl pres mp masc acc-1
+Il_11-κονίῃ-κόνιος-dusty-verb 3rd sg pres subj act-0
+Il_11-χαριζόμενος-χαρίζομαι-to say-part sg pres mp masc nom-1
+Il_11-πινέμεναι-πίνω-Aër.-verb pres inf act epic-0
+Il_11-ἐπεύξατο-ἐπεύχομαι-pray-verb 3rd sg aor ind mid-1
+Il_11-τετιημένος-τετίημαι-to be sorrowful-part sg perf mp masc nom-1
+Il_11-παλάσσετο-παλάσσω-besprinkle, defile-verb 3rd sg imperf ind mp homeric ionic unaugmented-0
+Il_11-εἵποντο-ἕπομαι-follow-verb 3rd pl imperf ind mp syll_augment-1
+Il_11-φέρει-φέρω-fero,-verb 3rd sg pres ind act-0
+Il_11-ἐστεφάνωτο-στεφανόω-to be put round in a circle-verb 3rd sg plup ind mp redupl-0
+Il_11-δύνατο-δύναμαι-to be able, strong enough-verb 3rd sg imperf ind mp homeric ionic unaugmented-1
+Il_11-ἕπετο-ἕπομαι-follow-verb 3rd sg imperf ind mp homeric ionic syll_augment unaugmented-1
+Il_11-βιαζόμενον-βιάζω-constrain-part sg pres mp neut nom-0
+Il_11-ἀναπλεύσεσθαι-ἀναπλέω-sail upwards, go up-stream,-verb fut inf mid-0
+Il_11-ἕλῃ-αἱρέω-take with the hand, grasp, seize-verb 2nd sg aor subj mid-0
+Il_11-χάζετο-χάζομαι-give way, fall back, retire-verb 3rd sg imperf ind mp homeric ionic unaugmented-1
+Il_11-ἱδρῶσαι-ἱδρόω-sweat, perspire-verb aor inf act-0
+Il_11-δότω-δίδωμι-Aër.-verb 3rd sg aor imperat act-0
+Il_11-ὀρίνονται-ὀρίνω-stir, raise,-verb 3rd pl pres ind mp-0
+Il_11-γιγνώσκω-γιγνώσκω-come to know, perceive-verb 1st sg pres subj act pres_redupl-0
+Il_11-ἠρήρειστο-ἐρείδω-cause to lean, prop,-verb 3rd sg plup ind mp attic_redupl-0
+Il_11-πω-πω-up to this time, yet-partic enclitic indeclform-0
+Il_11-μετακλαύσεσθαι-μετακλαίω-weep afterwards-verb fut inf mid-0
+Il_11-φθίσονται-φθίω-k[snull ]i-,-verb 3rd pl fut ind mid-0
+Il_11-δίδου-δίδημι-bind, fetter,-verb 2nd sg pres imperat mp pres_redupl-0
+Il_11-ἀφίει-ἀφίημι-send forth, discharge,-verb 3rd sg pres ind act-0
+Il_11-ἐρύσατο-ἐρύω-drag, draw,-verb 3rd sg aor ind mid homeric ionic syll_augment unaugmented-0
+Il_11-ἀποίχονται-ἀποίχομαι-to be gone away, to be far from, keep aloof from-verb 3rd pl pres ind mp-1
+Il_11-σφῇ-σφάζω-slay, slaughter-verb 2nd sg fut ind mid doric contr-0
+Il_11-χαρίσαιτο-χαρίζομαι-to say-verb 3rd sg aor opt mp-1
+Il_11-θανάτοιο-θάνατος-death-verb 2nd sg pres opt mp attic epic doric ionic contr desiderative-0
+Il_11-ὀΐομαι-οἴομαι-forebode, presage,-verb 1st sg pres ind mp epic-1
+Il_11-ἐπάλμενος-ἐφάλλομαι-spring upon-part sg aor mid masc nom-1
+Il_11-αἰθομένοις-αἴθω-light up, kindle-part pl pres mp neut dat-0
+Il_11-κλονέοντο-κλονέω-drive tumultuously-verb 3rd pl imperf ind mp epic doric ionic aeolic unaugmented-0
+Il_11-κείρει-κείρω-kṛṇā´ti-verb 3rd sg pres ind act-0
+Il_11-φοβέοντο-φοβέω-put to flight,-verb 3rd pl imperf ind mp epic doric ionic aeolic unaugmented-0
+Il_11-ἐπεβήσετο-ἐπιβαίνω-go upon-verb 3rd sg aor ind mid epic unasp_preverb-0
+Il_11-βεβλημένον-βάλλω-throw-part sg perf mp neut voc epic-0
+Il_11-βεβλημένος-βάλλω-throw-part sg perf mp masc nom epic-0
+Il_11-ἐχάζετο-χάζομαι-give way, fall back, retire-verb 3rd sg imperf ind mp-1
+Il_11-ἐπιείσομαι-ἔπειμι2-ibo-verb 1st sg fut ind mid epic poetic raw_preverb-0
+Il_11-πρόσσω-πρόσσω-[definition unavailable]-verb 1st sg pres subj act-0
+Il_11-δύναταί-δύναμαι-to be able, strong enough-verb 3rd sg pres ind mp-1
+Il_11-ἀνώχθω-ἄνωγα-command, order,-verb 3rd sg perf imperat act-0
+Il_11-ὀρώρει-ὄρνυμι-ṛṇóti-verb 3rd sg plup ind act attic epic contr unaugmented attic_redupl-0
+Il_11-πείσεται-πάσχω-have-verb 3rd sg fut ind mid-0
+Il_11-ᾤχετο-οἴχομαι-go-verb 3rd sg imperf ind mp-1
+Il_11-κέαται-κεάζω-split, cleave-verb 3rd sg fut ind mid contr-0
+Il_11-ἐδύσετο-δύω2-cause to sink, sink, plunge in-verb 3rd sg aor ind mid epic-0
+Il_11-ἔσσεσθαι-εἰμί-sum-verb fut inf mid epic-0
+Il_11-φαινομένηφι-φαίνω-A ren.-part pl pres mp fem dat epic-0
+Il_11-ἀφίκηαι-ἀφικνέομαι-arrive at, come to, reach:-verb 2nd sg aor subj mp epic-1
+Il_11-ῥῆξαί-ῥήγνυμι-break asunder, rend, shatter-verb 2nd sg aor imperat mid-0
+Il_11-μηχανόωντο-μηχανάομαι-make by art, construct, build-verb 3rd pl imperf ind mp epic unaugmented-1
+Il_11-θέτο-τίθημι-p-verb 3rd sg aor ind mid homeric ionic unaugmented-0
+Il_11-ἔλθῃ-ἔρχομαι-ibo-verb 3rd sg aor subj act late-1
+Il_11-ἀΐσσονται-ἀίσσω-to move with a quick shooting motion, to shoot, dart, glance-verb 3rd pl pres ind mp-0
+Il_11-θείοιο-θεάομαι-gaze at, behold-verb 2nd sg pres opt mp epic doric ionic-1
+Il_11-ἔμμεναι-εἰμί-sum-verb pres inf act epic-0
+Il_11-ῥαίνοντο-ῥαίνω-sprinkle, besprinkle-verb 3rd pl imperf ind mp homeric ionic unaugmented-0
+Il_11-ἐπεύξεαι-ἐπεύχομαι-pray-verb 2nd sg fut ind mid epic ionic-1
+Il_11-ἱέμενοι-ἵημι-Ja-c-io-part pl pres mid masc voc-0
+Il_11-ἀναίνετο-ἀναίνομαι-refuse-verb 3rd sg imperf ind mid doric aeolic-1
+Il_11-κεχαρισμένε-χαρίζομαι-to say-part sg perf mp masc voc redupl-1
+Il_11-ἀρετῇ-ἀρετάω-thrive, prosper,-verb 2nd sg pres subj mp doric contr-0
+Il_11-κιχείω-κιχάνω-reach, hit-verb 1st sg aor subj act epic pres_redupl-0
+Il_11-ἐσσεύοντο-σεύω-put in quick motion, drive-verb 3rd pl imperf ind mp homeric ionic unaugmented short_eis-0
+Il_11-δόμεναι-δίδωμι-Aër.-verb aor inf act epic-0
+Il_11-ἀνάγκῃ-ἀνάγκη-force, constraint, necessity,-verb 3rd sg fut ind act doric aeolic contr-0
+Il_11-ἄγρει-Ἀγρεύς-the Hunter-verb 3rd sg pres ind act attic epic doric ionic aeolic contr-0
+Il_11-θυμοῦ-θύμον-Cretan thyme, Thymbra capitata-verb 2nd sg imperf ind mp homeric ionic contr unaugmented-0
+Il_11-ἐμπέσῃ-ἐμπίτνω-fall upon-verb 2nd sg fut ind mid contr-0
+Il_11-μεθήσω-μεθίημι-set loose, let go-verb 1st sg fut ind act doric contr-0
+Il_11-καιόμεναί-καίω-kindle-part pl pres mp fem voc-0
+Il_11-σπάσσατο-σπάω-draw-verb 3rd sg aor ind mid epic unaugmented-0
+Il_11-ἱστάμενος-ἵστημι-make to stand-part sg pres mp masc nom causal pres_redupl-0
+Il_11-μάχῃ-μάχη-battle, combat-verb 2nd sg pres ind mp ionic contr-0
+Il_11-ἰθύει-ἰθύω-go straight, press right on-verb 2nd sg pres ind mp-0
+Il_11-προέτω-προίημι-to send before, send on-verb 3rd sg aor imperat act raw_preverb-0
+Il_11-λαφύσσει-λαφύσσω-swallow greedily, gulp down-verb 3rd sg pres ind act-0
+Il_11-γεγήθει-γηθέω-rejoice-verb 3rd sg plup ind act attic epic contr unaugmented-0
+Il_11-κεῖται-κέω-[definition unavailable]-verb 3rd sg pres ind mp attic epic contr-0
+Il_11-φέβοντο-φέβομαι-to be put to flight, flee in terror,-verb 3rd pl imperf ind mp homeric ionic unaugmented-1
+Il_11-δύῃ-δύη-misery, anguish,-verb 2nd sg pres subj mp-0
+Il_11-ὀλλυμένους-ὄλλυμι-destroy, make an end of,-part pl pres mp masc acc-0
+Il_11-δερκομένη-δέρκομαι-see clearly, see,-part sg pres mid fem voc attic epic ionic-1
+Il_11-κασσιτέροιο-κασσίτερος-tin-verb 2nd sg pres opt mp contr-0
+Il_11-εὐχόμενοι-εὔχομαι-pray-part pl pres mp masc voc-1
+Il_11-ἕπεσθαι-ἕπομαι-follow-verb pres inf mp-1
+Il_11-ἐκαρτύναντο-καρτύνω-hurl with force-verb 3rd pl aor ind mid-0
+Il_11-ἀνέμοιο-ἄνεμος-wind,-verb 2nd sg pres opt mp attic epic doric contr-0
+Il_11-ἱκάνεται-ἱκάνω-come-verb 3rd sg pres ind mp-0
+Il_11-ἔχει-ἔχις-viper-verb 3rd sg pres ind act-0
+Il_11-προΐει-προίημι-to send before, send on-verb 2nd sg pres imperat act raw_preverb-0
+Il_11-μενέω-μένω-stay, wait-verb 1st sg fut ind act epic doric ionic aeolic-0
+Il_11-κεκακωμένοι-κακόω-maltreat, distress-part pl perf mp masc nom redupl-0
+Il_11-ὄληται-ὄλλυμι-destroy, make an end of,-verb 3rd sg fut ind mid attic epic doric aeolic contr-0
+Il_11-ἑστήκει-ἵστημι-make to stand-verb 3rd sg plup ind act attic epic ionic contr-0
+Il_11-λήθεαι-λανθάνω-escape notice-verb 2nd sg pres ind mp epic ionic-0
+Il_11-βάλλει-βάλλις-plant-verb 3rd sg pres ind act-0
+Il_11-κατεπάλμενος-κατεφάλλομαι-leap down against-part sg aor mid masc nom-1
+Il_11-κραταιοῦ-κραταιόομαι-[definition unavailable]-verb 2nd sg pres imperat mp contr-1
+Il_11-Ἀντιμάχοιο-Ἀντίμαχος-[definition unavailable]-verb 2nd sg pres opt mp attic epic doric ionic contr-0
+Il_11-ποιμαίνοντο-ποιμαίνω-herd, tend,-verb 3rd pl imperf ind mp homeric ionic unaugmented-0
+Il_11-ἀΰτει-ἀυτέω-to cry-verb 3rd sg pres ind act attic epic doric ionic aeolic contr-0
+Il_11-γνῶ-γιγνώσκω-come to know, perceive-verb 1st sg aor subj act contr-0
+Il_11-ἐσχατιῇ-ἐσχατίζω-to be last, to come too late,-verb 2nd sg fut ind mid contr-0
+Il_11-μυθήσασθαι-μυθέομαι-speak-verb aor inf mp-1
+Il_11-βέβληται-βάλλω-throw-verb 3rd sg perf ind mp epic-0
+Il_11-σπουδῇ-σπουδάζω-to be busy, eager-verb 2nd sg fut ind mid doric contr-0
+Il_11-πολέμου-πόλεμος-war,-verb 2nd sg pres imperat mp attic contr-0
+Il_11-ἔχουσαι-ἔχω-check-part sg pres act fem dat doric-0
+Il_11-ἔχῃ-ἔχις-viper-verb 3rd sg pres subj act-0
+Il_11-ζώγρει-ζωγρέω-take, save alive, take captive-verb 3rd sg pres ind act attic epic doric ionic contr-0
+Il_11-ἔρχομαι-ἔρχομαι-ibo-verb 1st sg pres ind mp-1
+Il_11-ἐλεαίρει-ἐλεαίρω-take pity on-verb 2nd sg pres ind mp-0
+Il_11-μιχθήμεναι-μίγνυμι-to mix, mix up, mingle, properly of liquids-verb aor inf pass epic-0
+Il_11-ὀΐω-οἴομαι-forebode, presage,-verb 1st sg pres ind act epic-1
+Il_11-ἀέξετο-ἀέξω-augeo-verb 3rd sg imperf ind mp doric aeolic poetic-0
+Il_11-ἑστάμεναι-ἵστημι-make to stand-part sg perf mp fem dat doric aeolic-0
+Il_11-ἵκετο-ἱκνέομαι-come-verb 3rd sg aor ind mid-1
+Il_11-κυλίνδεσθαι-κυλίνδω-roll-verb pres inf mp-0
+Il_11-ὀδύναι-ὀδύνη-pain of body,-verb 3rd sg pres subj act contr-0
+Il_11-καρδίῃ-καρδία-heart-verb 3rd sg pres subj act doric contr-0
+Il_11-ἐλαυνόμενος-ἐλαύνω-drive, set in motion-part sg pres mp masc nom-0
+Il_11-θεύσεσθαι-θέω-dhávate-verb fut inf mid-0
+Il_11-κεκορυθμένα-κορύσσω-furnish with a helmet-part sg perf mp fem voc doric aeolic-0
+Il_11-πεσέονται-πίπτω-Exc. ex libris Herodiani-verb 3rd pl fut ind mid epic doric ionic aeolic-0
+Il_11-ἱεροῦ-ἱεράομαι-to be a priest-verb 2nd sg pres imperat mp attic epic ionic contr-1
+Il_11-κιχήμενον-κιχάνω-reach, hit-part sg pres mp neut nom pres_redupl-0
+Il_11-σεύῃ-σεύω-put in quick motion, drive-verb 2nd sg aor subj mid epic-0
+Il_11-κήδεται-κήδω-trouble, distress-verb 3rd sg pres ind mp-0
+Il_11-ἐβούλετο-βούλομαι-will, wish, be willing-verb 3rd sg imperf ind mp-1
+Il_11-ἱκάνει-ἱκάνω-come-verb 2nd sg pres ind mp-0
+Il_11-ἐγγυαλίξει-ἐγγυαλίζω-put into the palm of the hand, put into the hand-verb 3rd sg fut ind act comp_only-0
+Il_11-οὔτασται-οὐτάζω-to wound-verb 3rd sg perf ind mp redupl-0
+Il_11-ἐκέκλετο-κέλομαι-urge, exhort, command.-verb 3rd sg aor ind mid-1
+Il_11-ἵξεσθαι-ἱκνέομαι-come-verb fut inf mid-1
+Il_11-βιῴατο-βιάω-constrain-verb 3rd pl pres opt mp epic ionic contr-0
+Il_11-αἱρεῖ-αἱρέω-take with the hand, grasp, seize-verb 3rd sg pres ind act attic epic doric ionic contr-0
+Il_11-ὄλοντο-ὄλλυμι-destroy, make an end of,-verb 3rd pl aor ind mid homeric ionic unaugmented-0
+Il_11-οὐτάμενοί-οὐτάω-wound, hurt, hit-part pl pres mp masc voc doric aeolic contr-0
+Il_11-ἐβεβήκει-βαίνω-walk, step,-verb 3rd sg plup ind act attic epic contr-0
+Il_11-εὔχεαι-εὔχομαι-pray-verb 2nd sg pres ind mp epic ionic-1
+Il_11-στυφελίξῃ-στυφελίζω-strike hard-verb 2nd sg aor subj mid-0
+Il_11-ἰῇ-εἷς-sem-verb 3rd sg pres subj act-0
+Il_11-προμάχεσθαι-προμάχομαι-fight before, fight in the front rank,-verb pres inf mp-1
+Il_11-βάλετο-βάλλω-throw-verb 3rd sg aor ind mid homeric ionic unaugmented-0
+Il_11-ἅλεται-ἅλλομαι-sal--verb 3rd sg aor subj mid epic short_subj-1
+Il_11-μαχέσασθαι-μάχομαι-fight-verb aor inf mid epic ionic-1
+Il_11-ἐλέλικτο-ἐλελίζω-whirl round-verb 3rd sg plup ind mp epic-0
+Il_11-ὦρτο-ὄρνυμι-ṛṇóti-verb 3rd sg aor ind mid-0
+Il_11-τέρποντο-τέρπω-delight, gladden, cheer-verb 3rd pl imperf ind mp homeric ionic unaugmented-0
+Il_11-ἵκοντο-ἱκνέομαι-come-verb 3rd pl aor ind mid-1
+Il_11-ἵσταντο-ἵστημι-make to stand-verb 3rd pl imperf ind mp causal pres_redupl-0
+Il_11-κρινάμενος-κρίνω-separate, put asunder, distinguish-part sg aor mid masc nom-0
+Il_11-ἀπεψύχοντο-ἀποψύχω-leave off breathing, faint, swoon,-verb 3rd pl imperf ind mp-0
+Il_11-ἱσταμένη-ἵστημι-make to stand-part sg pres mp fem voc attic epic ionic causal pres_redupl-0
+Il_11-κείατο-καίω-kindle-verb 3rd sg aor ind mid homeric ionic unaugmented-0
+Il_11-ὁμίλου-ὅμιλος-any assembled crowd, throng of people,-verb 2nd sg pres imperat mp attic contr-0
+Il_11-δίῃ-Δίη-[definition unavailable]-verb 3rd sg pres subj act-0
+Il_11-κέκληται-καλέω-call, summon-verb 3rd sg perf ind mp-0
+Il_11-ἄρησθε-ἀείρω-attach-verb 2nd pl fut ind mid doric aeolic contr-0
+Il_11-τιταίνετο-τιταίνω-stretch-verb 3rd sg imperf ind mp homeric ionic unaugmented redupl-0
+Il_11-ἀπαμειβόμενος-ἀπαμείβομαι-reply, answer,-part sg pres mp masc nom-1
+Il_11-βαινέτω-βαίνω-walk, step,-verb 3rd sg pres imperat act-0
+Il_11-εἰληλούθει-ἔρχομαι-ibo-verb 3rd sg plup ind act attic epic contr unaugmented attic_redupl-1
+Il_11-εὐχετόωντο-εὐχετάομαι-pray-verb 3rd pl imperf ind mp epic unaugmented-1
+Il_11-γένηται-γενητός-originated-verb 3rd sg aor subj mid-0
+Il_11-μάχεσθαι-μάχομαι-fight-verb pres inf mp-1
+Il_11-ἐσσεύαντο-σεύω-put in quick motion, drive-verb 3rd pl aor ind mid epic syll_augment-0
+Il_11-βλήμενος-βάλλω-throw-part sg aor mid masc nom epic-0
+Il_11-φέρεσθαι-φέρω-fero,-verb pres inf mp-0
+Il_11-ὀρέξαι-ὀρέγω-reach, stretch, stretch out,-verb aor inf act-0
+Il_11-εὔχεσθαι-εὔχομαι-pray-verb pres inf mp-1
+Il_11-Νότοιο-Νότος-south wind-verb 2nd sg pres opt mp attic epic doric contr-0
+Il_11-ἐρείσατο-ἐρείδω-cause to lean, prop,-verb 3rd sg aor ind mid epic ionic unaugmented-0
+Il_11-ἕσπετο-ἕπομαι-follow-verb 3rd sg aor ind mid epic unaugmented-1
+Il_11-ἀγορῇ-ἀγορά-assembly-verb 2nd sg pres subj mid doric contr-0
+Il_11-ἀμύνετο-ἀμύνω-keep off, ward off,-verb 3rd sg imperf ind mp doric aeolic-0
+Il_11-ἀλεείνει-ἀλεείνω-avoid, shun-verb 2nd sg pres ind mp-0
+Il_11-φόβοιο-φόβος-panic flight,-verb 2nd sg pres opt mp attic epic doric contr-0
+Il_11-παύσατο-παύω-make to end-verb 3rd sg aor ind mid homeric ionic unaugmented-0
+Il_11-ὁρόω-ὁράω-Inscr. destombeaux des rois-verb 2nd sg pres imperat mp epic-0
+Il_11-τρέφει-τρέφος-[definition unavailable]-verb 2nd sg pres ind mp-0
+Il_11-τειρόμενον-τείρω-oppress, distress, weaken-part sg pres mp masc acc-0
+Il_11-Πριάμοιο-Πρίαμος-priam,-verb 2nd sg pres opt mp contr-0
+Il_11-μετάλμενος-μεθάλλομαι-leap, rush upon-part sg aor mid masc nom-1
+Il_11-ἐβιήσατο-βιάω-constrain-verb 3rd sg aor ind mid attic ionic-0
+Il_11-θάνω-θνήσκω-to die, be dying-verb 1st sg aor subj act-0
+Il_11-ὀλοφυρόμενος-ὀλοφύρομαι-lament, wail, moan,-part sg pres mp masc nom-1
+Il_11-τειρόμενοι-τείρω-oppress, distress, weaken-part pl pres mp masc nom-0
+Il_11-πύθεται-πύθω-cause to rot-verb 3rd sg pres ind pass-0
+Il_11-ἀναχωρείτω-ἀναχωρέω-go back,-verb 3rd sg pres imperat act attic epic contr-0
+Il_11-πρήσσει-πράσσω-pass through, pass over,-verb 2nd sg pres ind mp epic ionic-0
+Il_11-πίθηται-πείθω-persuade-verb 3rd sg aor subj mp-0
+Il_11-θωρήσσεσθαι-θωρήσσω-arm with a-verb pres inf mp-0
+Il_11-ἐσσύμενός-ἐσσύμενος-hurrying, eager, impetuous,-part sg pres mid masc nom poetic-0
+Il_11-φέβωμαι-φέβομαι-to be put to flight, flee in terror,-verb 1st sg pres subj mp-1
+Il_11-κυδοιμοῦ-κυδοιμέω-make an uproar, spread confusion-verb 2nd sg pres imperat mp attic contr-0
+Il_11-ὄρνυται-ὄρνυμι-ṛṇóti-verb 3rd sg pres ind mp-0
+Il_11-βέβληαι-βάλλω-throw-verb 2nd sg perf ind mp epic-0
+Il_11-ἱδρῶ-ἱδρόω-sweat, perspire-verb 3rd sg imperf ind act doric aeolic contr-0
+Il_11-σκίδναται-σκίδνημι-disperse-verb 3rd sg pres subj mp doric-0
+Il_11-ὀρωρέχατο-ὀρέγω-reach, stretch, stretch out,-verb 3rd pl plup ind mp epic ionic unaugmented attic_redupl-0
+Il_11-ἀκαχήμενον-ἀχεύω-grieving, mourning,-part sg pres pass neut voc-0
+Il_11-ἀϋτῇ-ἀυτέω-to cry-verb 2nd sg pres ind mp contr-0
+Il_11-ἁλώω-ἁλίσκομαι-to be taken, conquered, fall into an enemy's hand-verb 1st sg aor subj act epic ionic-1
+Il_11-δείδω-δείδω-to fear-verb 1st sg pres ind act-0
+Il_11-μάρνατο-μάρναμαι-fight, do battle-verb 3rd sg imperf ind mp homeric ionic unaugmented-1
+Il_11-ὀρμένω-ὄρνυμι-ṛṇóti-part sg aor mid neut gen doric aeolic-0
+Il_11-ἀγχοῦ-ἄγχω-squeeze-verb 2nd sg pres imperat mp attic epic doric contr-0
+Il_11-ὀρώρῃ-ὄρνυμι-ṛṇóti-verb 3rd sg perf subj act attic_redupl-0
+Il_11-δοῦναι-δίδωμι-Aër.-verb aor inf act-0
+Il_11-ἀνασχόμενοι-ἀνέχω-hold up, lift up,-part pl aor mid masc voc-0
+Il_11-ἐσσυμένους-ἐσσύμενος-hurrying, eager, impetuous,-part pl pres mid masc acc poetic-0
+Il_11-ἐντροπαλιζόμενος-ἐντροπαλίζομαι-often turning round,-part sg pres mp masc nom-1
+Il_11-ἀλεύατο-ἀλέομαι-avoid, shun-verb 3rd sg aor ind mid epic doric aeolic-1
+Il_11-παρειαί-παρέζομαι-sit beside-verb 2nd sg perf ind mp epic-1
+Il_11-τέτυκτο-τεύχω-make ready, make-verb 3rd sg plup ind mp homeric ionic unaugmented-0
+Il_11-πώ-πω-up to this time, yet-partic enclitic indeclform-0
+Il_11-ὑποθέσθαι-ὑποτίθημι-place under,-verb aor inf mp-0
+Il_11-ἐτέρσετο-τέρσομαι-to be-verb 3rd sg imperf ind pass-1
+Il_11-ὀπαζόμενος-ὀπάζω-make to follow, send with-part sg pres mp masc nom-0
+Il_11-κεκλόμενοι-κέλομαι-urge, exhort, command.-part pl aor mid masc voc-1
+Il_11-βεβλήαται-βάλλω-throw-verb 3rd pl perf ind mp epic ionic-0
+Il_11-φαεινοῦ-φαεινός-shining, radiant,-verb 2nd sg pres imperat mp attic epic doric contr-0
+Il_11-κυάνοιο-κύανος-dark-blue enamel-verb 2nd sg pres opt mp attic epic doric contr-0
+Il_11-Σώκοιο-Σῶκος-[definition unavailable]-verb 2nd sg pres opt mp attic epic doric contr-0
+Il_11-βίῃ-βία-bodily strength, force-verb 3rd sg pres ind act doric contr-0
+Il_11-μεμαυῖαι-μέμαα-to wish eagerly, strive, yearn, desire-part pl perf act fem voc epic-0
+
+-------------------------------
+---NOT-FOUND or NOT-VERB---
+Νηληϊάδεω,ξίφει,Βουπρασίοιο,Θρῄκῃ,πολυπύρου,βοηλασίῃ,Περκωσίου,γενεῇ,μενεχάρμην,Ὀλύμπου,λιγυρῇ,Εἰλείθυιαι,Ἀρσινόου,πολυχρύσοιο,ἀλφίτου,πανσυδίῃ,πολυδαιδάλου,ἀργαλέοιο,αἰγιόχοιο,Ἀτρεΐδῃ,πυθμένες,Ἀσκληπιοῦ,ὀστέου,ἰφθίμοιο,ὄπισθε,ποιμένα,ἱπποδάμοιο,δεταί,παχείῃ,στήλῃ,που,Ἴλου,Ἀθήνῃ,πρυμνῇ,Περκώτῃ,ἑκάστου,χρύσειαι,χαλκείῃ,τώ,Ἀτρεΐδεω,Ἰδομενῆα,Τροίῃ,μηροῦ,κυκειῶ,ἄμφω,κρατερῇ,ὑσμίνῃ,ἐπισχερώ,θαλάμοιο,ἀγαυοῦ,οὔδει,Μοῦσαι,μαχαίρῃ,τηλοῦ,Ἰδομενεὺς,Ἀλεξάνδροιο,πολλῇ,Μενοιτίου,βαθείῃ,δίφρου,Ἱππάσου,τοῦ,ξυλόχοιο,ποιμένι,στέρνοιο,Ἀγαστρόφου,πεδίου,πάντῃ,ὑπερμενεῖ,κελαινῇ,Βουπρασίου,γαίῃ,οὕτω,ἀέλλῃ,μεσσαύλοιο,αὐτοῦ,ἱπποσύνῃ,πτολέμοιο,Σκαμάνδρου,ἠϋκόμοιο,βαρείῃ,πολυπλάγκτοιο,Ἀθηναίῃ,Ἀσκληπιάδῃ,πού,Τενέδοιο,κελεύθου,Νηλήϊαι,ἀλόχου,ὀξεῖαι,Ἀλησίου,κασιγνήτοιο,Τυδεΐδῃ,ἀγροιῶται,πλεῖσται,Οὐλύμποιο,τῇ,ἐλάφοιο,καί,θρόνου,ἠνορέῃ
+
+----STATISTICS----
+Total verbal forms found: 485
+Media_tantum: 99
+Not-Media_tantum:285
+Forms not found on Perseus or not verbs: 101
+------------------------------------
+
