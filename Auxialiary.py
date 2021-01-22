@@ -1,33 +1,37 @@
+#!/usr/bin/python3
+
+__author__ = 'Antonio Masotti'
+__date__ = '20.09.2018'
+
 '''
 
 Some functions for the main script
 
-GNU License 20.09.2018 - Antonio Masotti
-
 '''
 
-def trasforma_result(lista_grezza):
+def trasforma_result(raw_list):
+
     '''
     The regex will output a list of tuples with matched form and endings.
-    This functions manipulate the list and
+
+    This functions manipulate the list and 
     returns only the greek forms matching the regex
 
     '''
-    # initialize object for form manipulation and statistics
-    statistiche = []
+    stats = []
     temp = []
-    lista_finale = []
+    final_list = []
 
     # extract the single results
-    for lista in lista_grezza:
-        temp.extend(lista)
+    for listObj in raw_list:
+        temp.extend(listObj)
     # build a single list with the verbal forms
     for pair in temp:
-        lista_finale.append(pair[0])
+        final_list.append(pair[0])
 
     # delete the duplicates
-    lista_finale = list(set(lista_finale))
-    return (lista_finale, statistiche)
+    final_list = list(set(final_list))
+    return (final_list, stats)
 
 def again():
     '''
